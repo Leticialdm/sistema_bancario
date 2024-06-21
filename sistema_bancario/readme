@@ -1,0 +1,17 @@
+este projeto tende a realizar uma simulação de sistema bancário, 
+onde podemos realizar registros de agências de banco, inserção de
+clientes (escolhendo entre conta corrente e conta especial), para a 
+melhor manipulação de dados, desenvolvi o CRUD.
+
+desenvolvi o projeto para estudar sobre a estrutura de dados e para 
+aprimorar meus conhecimentos na linguagem python
+
+para rodar a aplicação basta dar run no arquivo 'menu.py'
+para tornar o arquivo executável basta executar os comandos 
+(no terminal do visual studio) que citarei a baixo:
+1º comando: pip install pyinstaller
+2º comando: pyinstaller --onefile menu.py
+
+após a execução dos dois comandos a cima, basta entrar no 
+'explorador de arquivos' para localizar a pasta que se encontra o projeto,
+em seguida, execute o arquivo dist.
